@@ -1,7 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-show_message("You just clicked on the button");
+room_goto_next();
+
 
 
 
