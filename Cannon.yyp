@@ -37,7 +37,9 @@
     {"id":{"name":"btn_start","path":"objects/btn_start/btn_start.yy",},},
     {"id":{"name":"room_playing","path":"rooms/room_playing/room_playing.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},},
+    {"id":{"name":"spr_background_title","path":"sprites/spr_background_title/spr_background_title.yy",},},
+    {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"room_title","path":"rooms/room_title/room_title.yy",},},
   ],
   "RoomOrderNodes": [
