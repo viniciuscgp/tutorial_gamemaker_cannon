@@ -35,6 +35,8 @@
   },
   "resources": [
     {"id":{"name":"btn_start","path":"objects/btn_start/btn_start.yy",},},
+    {"id":{"name":"spr_cannon","path":"sprites/spr_cannon/spr_cannon.yy",},},
+    {"id":{"name":"obj_cannon","path":"objects/obj_cannon/obj_cannon.yy",},},
     {"id":{"name":"room_playing","path":"rooms/room_playing/room_playing.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},},
